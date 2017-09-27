@@ -1,5 +1,6 @@
 # Exercise
 ## Section 2, Lecture 27
+### The Complete Angular Course: Beginner to Advanced
 
 ## Background 
 Imagine you're working at Facebook and your job is to implement the "Like" functionality. 
